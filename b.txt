@@ -4,3 +4,4 @@ pushing changes to development branch
 added extra line
 will merge this code with master branch
 
+deleting lines 
